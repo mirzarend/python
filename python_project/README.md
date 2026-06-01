@@ -10,4 +10,4 @@ Fungsi dari project ini adalah melakukan pengecekan kendaraan seperti pengecekan
 2. Buka terminal dan masuk ke folder tempat file ini disimpan.
 3. jalankan seperti ini :
 ```bash
-python car_check.py```
+python car_check.py
