@@ -23,3 +23,12 @@ Fungsi dari project ini adalah melakukan pengecekan kendaraan seperti pengecekan
 # Project 02 - Sistem pengecekan nilai siswa
 
 project ini berfungsi untuk melakukan pengecekan nilai nilai siswa menggunakan input. yang terdiri dari nilai tertinggi, nilai terendah, dan disimpulkan rata rata nilai siswa. lalu ditunjukkan grade siswa, serta beberapa nilai yang lulus.
+
+# Project 03 - Sistem analisis kalimat input
+
+Project ini berfungsi untuk melakukan beberapa analisis terhadap input yang diberikan terhadap sistem.
+
+## Hal - hal dianalisis oleh project ini adalah :
+1. Vokal
+2. Konsonan
+3. Kalimat terpanjang
