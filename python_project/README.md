@@ -37,4 +37,14 @@ Project berikut adalah projek pertama saya belajar python, saya masih menggunaka
 2. Konsonan
 3. Kalimat terpanjang
 
+# Project 04 - Manajemen Produk Sistem
+
+**Fungsi:** Menyusun secara rapi data - data produk dari sebuah warung. Output dari sistem ini adalah :
+
+1. Menunjukkan data - data produk yang meliputi Nama, Harga, Stok
+
+2. Menunjukkan produk termahal serta yang termurah
+
+3. Serta memberikan informasi tentang seluruh stok produk yang tersisa
+
 *Repositori ini akan terus diperbarui seiring dengan perkembangan proses belajar saya*
