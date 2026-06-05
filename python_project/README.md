@@ -42,9 +42,15 @@ Project berikut adalah projek pertama saya belajar python, saya masih menggunaka
 **Fungsi:** Menyusun secara rapi data - data produk dari sebuah warung. Output dari sistem ini adalah :
 
 1. Menunjukkan data - data produk yang meliputi Nama, Harga, Stok
-
 2. Menunjukkan produk termahal serta yang termurah
-
 3. Serta memberikan informasi tentang seluruh stok produk yang tersisa
+
+# Project 05 - Sistem Perekomendasian Film
+
+**Fungsi:** Menyusun secara rapi film film yang tersedia, Menyesuaikan film sesuai *input* genre dan memberikan data film terbaik.  Output dari sistem ini adalah :
+
+1. Menampilkan film - film yang tersedia
+2. Menampilkan Film dengan rating tertinggi
+3. Meminta *input* genre
 
 *Repositori ini akan terus diperbarui seiring dengan perkembangan proses belajar saya*
