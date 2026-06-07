@@ -61,4 +61,13 @@ Project berikut adalah projek pertama saya belajar python, saya masih menggunaka
 2. Menampilkan siswa yang termuda dan tertua
 3. Meminta *input* untuk mencari siswa tertentu sesuai dengan nama siswa yang dicari
 
+# Project 07 - Kalkulator
+
+**Fungsi:** Selayaknya kalkulator biasa, namun kalkulator ini mempunyai fitur *error handling*, sehingga apabila kode error sistem tidak akan berhenti saja, namun mmeberikan peringatan kepada *user*. Kelebihan dari sistem ini adalah :
+
+1. Menghitung angka yang di berikan
+2. Apabila operator yang di input tidak benar maka sistem akan memberi peringatan
+3. Apabila *input* memberikan angka 0 dan memilih operator bagi *(ZeroDivisionError)* maka akan diperingatkan oleh sistem
+4. Apabila *input* memberikan input kosong, huruf, dan lain lain kecuali huruf, maka sistem akan memperingatkan *(ValueError)*
+
 *Repositori ini akan terus diperbarui seiring dengan perkembangan proses belajar saya*
