@@ -53,4 +53,12 @@ Project berikut adalah projek pertama saya belajar python, saya masih menggunaka
 2. Menampilkan Film dengan rating tertinggi
 3. Meminta *input* genre
 
+# Project 06 - Sistem Pendataan Siswa
+
+**Fungsi:** Menampilkan data data siswa, Bisa menjadi tempat pencarian nama siswa, serta mengetahui data siswa yang dicari. Output dari sistem ini adalah :
+
+1. Menampilkan data data siswa
+2. Menampilkan siswa yang termuda dan tertua
+3. Meminta *input* untuk mencari siswa tertentu sesuai dengan nama siswa yang dicari
+
 *Repositori ini akan terus diperbarui seiring dengan perkembangan proses belajar saya*
