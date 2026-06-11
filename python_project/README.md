@@ -70,4 +70,22 @@ Project berikut adalah projek pertama saya belajar python, saya masih menggunaka
 3. Apabila *input* memberikan angka 0 dan memilih operator bagi *(ZeroDivisionError)* maka akan diperingatkan oleh sistem
 4. Apabila *input* memberikan input kosong, huruf, dan lain lain kecuali huruf, maka sistem akan memperingatkan *(ValueError)*
 
+# Project 08 - Sistem File Handling JSON
+
+**Fungsi:** Menyusun produk yang ada dengan menggunakan metode *file handling*, dengan menggunakan metode ini kode lebih sedikit dan efisien untuk data yang banyak.
+
+Membuat file JSON
+
+```
+with open("dataProduk.json", "w") as file :
+  json.dump(dataProduk,file)
+```
+
+Membaca File JSON yang telah dibuat
+```
+with open("dataProduk.json", "r") as file :
+  hasil = json.load(file)
+```
+
+
 *Repositori ini akan terus diperbarui seiring dengan perkembangan proses belajar saya*
