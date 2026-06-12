@@ -112,4 +112,26 @@ array = array.reshape()
 
 **Total perkalian dimensi harus sama dengan jumlah data asli.**
 
+Jadi anda bisa mengubah bentuk data yang ada dengan menggunakan fungsi ini, dan ada keunikan dari fungsi ini yaitu menggunakan -1. contohnya:
+
+```
+array = np.array([1,2,3,4,5,6,7,8,9,10,11,12])
+
+array = array.reshape(-1, 2)
+
+print(array)
+```
+
+Jadi di dalam kode itu ada -1 yang berfungsi sebagai otomatisasi di fungsi ini, misal kita mempunyai ribuan data dan ingin membentuk struktur 2 dimensi yang rapi tanpa perlu menghitung jumlah barisnya secara manual, kita cukup menentukan jumlah kolom yang pasti, lalu tinggal pasang -1 di bagian jumlah baris, Numpy akan otomatis membagi total data tersebut.
+
+Contoh output :
+```
+[[ 1  2]
+ [ 3  4]
+ [ 5  6] 
+ [ 7  8]
+ [ 9 10]
+ [11 12]]
+```
+
 
